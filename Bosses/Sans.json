@@ -1,1 +1,9 @@
-
+{
+"Name": "Sans",
+"Spritesheet": "https://link.com",
+"HP": 1000,
+"ATK": 2000,
+"DEF": 1500,
+"Skills": {"Dodge": 65, "Counter": 0, "Revive": 0}
+"AttackNames": {"Super": {"Name": "Gaster Blaster", "Frames": 200} "Mega": {"Name": "Gravity Slammer", "Frames": 200}}
+}
